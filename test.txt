@@ -9,3 +9,5 @@
 这是我的第一次pull request
 
 修改文件test.txt
+
+测试rm --cached []
