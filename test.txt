@@ -13,3 +13,5 @@
 测试rm --cached []
 
 dengjili
+合并
+zhangsan
