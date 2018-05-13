@@ -1,8 +1,6 @@
-# clonegit
+# clonegit - 这是我学习git的项目
 
-这是我学习git的项目
-
-·其中git-vip图片是我对git总结·
+***其中git-vip图片是我对git总结***
 
 ***git-官网教程.pdf是从官网下载的git教程***
 
