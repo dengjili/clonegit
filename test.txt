@@ -11,3 +11,5 @@
 修改文件test.txt
 
 测试rm --cached []
+
+dengjili
